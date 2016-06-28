@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528998666528",
+    "firebase_url": "https://lockerapp-e792d.firebaseio.com",
+    "project_id": "lockerapp-e792d",
+    "storage_bucket": "lockerapp-e792d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528998666528:android:0abe38887cdec5a9",
+        "android_client_info": {
+          "package_name": "com.laundry.ptah.laundryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528998666528-327mhvsjinhmro2n0b509kut6c3mgip8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0L546nxyrHye5fpPOZiPvn8bgiwD6e7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

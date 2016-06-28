@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_url">https://lockerapp-e792d.firebaseio.com</string>
+    <string name="facebook_app_id">502455793258493</string>
+<string name="twitter_consumer_key">yhQ1KfTO0wEqxUQ7I1RrNni1P</string>
+<string name="twitter_consumer_secret">1AH7v8o41WDqLJr3QYTT745aGFWfmUBl9JtLwyVCXZskImxflS</string>
+</resources>
