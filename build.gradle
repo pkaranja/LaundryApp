@@ -13,14 +13,6 @@ buildscript {
     }
 }
 
-allprojects {
-    repositories {
-        jcenter()
-        mavenCentral()
-        maven { url 'https://maven.fabric.io/public' }
-    }
-}
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }

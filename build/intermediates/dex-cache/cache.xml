@@ -1,2 +1,327 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e021a1a8f5600d1924bd69cd2b007c8d118d3ea7">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-materialviewpager-1.2.0_96221801b65b9f830753fe143631afa95d83c7e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_19859d02912e1b5155d5798ebc404836579c9356/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f45a79198bf55bd22ad4d4fd85e0ab2223b7ab54/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.9.0_80e816733c6405d96966b0003829b2f4e0a47be2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_157e27994d7f88ef8b26b8e2f32879240fab419a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_4c4f659a82ae23c857ebd47bbde0d80a79395022/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_b022f00e97c6ad8f0a9924311cbf1f80993036fc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_8b673fb5ded97eac4b725daea543c8c69a945d60/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.3.0_98b369ac6fa9bb5bd0f58007f9c7194e8c757a7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="046a7dd6280ecc3fd562238bcf66d861bc64a583">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9bc19f81355afc83e8b11167d51122b3c9307538/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_155b8c68a6c0a7c8a8082264698d923722a52aff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_d6b480bb64b9c475bb726b3ad970819ecea65cc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.10_7a205bb46397c3826dd82d652d58da9ecf8ba939/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_60901995ed8332c3e994904f6c398debb11e1690/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_cf0c6459ed0684738548ad927f25abe5d4f65f5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_038af75c1c05480074af49b14a5332d69ee15c47/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b5b6da617c359619c6ee66a4c1552b71dc0d3dc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.13.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-1.13.1_5ded341c51c46aaaae817f3585bae0d8e21479c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_9935c07c2a93e853261628dbad1376b7a2284b11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.8.0_a74a34888e36e09f185f80d9e012acd04a89f2c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_d72c7aa62067410f86ef07d1925e14c1e47803c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_6da7152bd72b49b393e42c38bc9e3f34f9a6ade3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_0a33afab72957d88d569a44a8c6f0d1d58bd0f42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="130b0d06b7c41b2f81731df9da0bdf55ecae5e53">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07ac560c93b699e6167df301c4eb859337f220e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-1.10.1_89a89900272f067319a494597cacad0cb03e5d04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.6.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ksoichiro-android-observablescrollview-1.6.0_dfdbef5b38b94998921ea16c23450e6cdac1bc82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.7_93ca2acaea580a3c5bab4547f0b352c2f5b968b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.3.0_a8512fb33efd4e08af45290b22dd855dc82a7ea7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_df623eb04b9971d1952fbcf03d6cd71be9e81940/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_c8772f5e52a520dbd935323ca96580ddad7d34d1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_ffb1bee6d5a58e19a10f73e69cb873e8de660bd0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_b46176f6d7771ca25069b21277d378192b9a098d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_91ba062ef638c157a7390d31c2ac24fb3befe39d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_4af0cdb1de1c35ada627ea0c9fe1d057f5f192fc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-1.0.3_4ed1f45539d226d1975e749b1f49b329a4fc53bd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e8e7cba0e03c37385b0b113beaf4b5e10ef1dc72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpardogo.materialtabstrip-library-1.1.0_f8b3b958f931559dc4106cd041be47bef5bf4b08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_fdabf6a4f99528b80848518e41c711fa86222e2b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b81327f3afb5c0c84ee6f50df6f750737a44653">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.digits.sdk.android-digits-1.10.3_a50d335fbc669416d42dd400c5c9065dde394afb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.6_dcd850ff99dd392d367fdd9e3b5e2ce9b354cb8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_53951ab17c9348e9af3efd223504de3096b2ae15/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_f12fa90bcdc44bee7354ba5ed5adcc065bdb7a53/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_7a4d2c98effb7c54bc3cec963a6ef3278f06abbc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_1d38e0c00813d4f29c84391fc32db149ecf699a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/exploded-aar/com.github.bmutinda/httpbuster/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e2005f23806fbb5078a0c05cc73e86d4f480346">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.bmutinda-httpbuster-1.3.1_7a9b4f95061fac20196d4c36e72a66ae26de22d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ptah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.6.0/212387a39088ecd3daff8e3bfc3bdc4123e33c67/okhttp-2.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="/Users/Ptah/AndroidStudioProjects/LaundryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.6.0_fc80a253326512de8e9d0066e9471f60a7d95027/classes.dex" />
+    </item>
+
+</items>

@@ -42,9 +42,31 @@ public class MainActivity extends DrawerActivity {
 
             @Override
             public Fragment getItem(int position) {
-                switch (position % 4) {
+                switch (position % 11) {
+                    case 0:
+                        return RecyclerViewFragment.newInstance("Shirts/Tops");
+                    case 1:
+                        return RecyclerViewFragment.newInstance("Suits");
+                    case 2:
+                        return RecyclerViewFragment.newInstance("Dress/Skirts");
+                    case 3:
+                        return RecyclerViewFragment.newInstance("Outdoor");
+                    case 4:
+                        return RecyclerViewFragment.newInstance("Trousers");
+                    case 5:
+                        return RecyclerViewFragment.newInstance("Knitwear");
+                    case 6:
+                        return RecyclerViewFragment.newInstance("Accessories");
+                    case 7:
+                        return RecyclerViewFragment.newInstance("Towels");
+                    case 8:
+                        return RecyclerViewFragment.newInstance("Beddings");
+                    case 9:
+                        return RecyclerViewFragment.newInstance("Home");
+                    case 10:
+                        return RecyclerViewFragment.newInstance("Others");
                     default:
-                        return RecyclerViewFragment.newInstance();
+                        return RecyclerViewFragment.newInstance("Shirts/Tops");
                 }
             }
 
